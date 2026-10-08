@@ -1,0 +1,3 @@
+pandas>=2.0
+# opcional, apenas para gerar mensagens com IA:
+# openai>=1.0
